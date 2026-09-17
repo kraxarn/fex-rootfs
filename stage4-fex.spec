@@ -21,6 +21,7 @@ stage4/packages: --with-bdeps=y --deep sys-fs/fuse:0 sys-fs/fuse:3 x11-libs/gtk+
 	media-libs/glu
 	media-libs/freetype
 	media-libs/libpulse
+	media-video/pipewire
 	media-libs/libsdl
 	media-libs/libsdl2
 	media-libs/mesa
